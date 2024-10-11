@@ -14,13 +14,8 @@ Este proyecto es una herramienta interactiva que permite realizar un Análisis D
 - **HTML5**: Estructura del contenido de la página.
 - **CSS3**: Estilización y disposición visual.
 - **JavaScript**: Lógica para la interacción dinámica del usuario.
-## 🌟 Cómo Usar
 
-Clona este repositorio en tu máquina local:
-
-```bash
-git clone https://github.com/tu-usuario/analisis-dafo-inteligente.git
-
+- 
  ## 🎯 Futuras Mejoras
 
 - Implementar una funcionalidad para exportar el análisis a PDF.
@@ -35,4 +30,11 @@ git clone https://github.com/tu-usuario/analisis-dafo-inteligente.git
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## 🌟 Cómo Usar
+
+Clona este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/tu-usuario/analisis-dafo-inteligente.git
 
