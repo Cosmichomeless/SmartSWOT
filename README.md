@@ -36,5 +36,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/analisis-dafo-inteligente.git
-
+https://github.com/Cosmichomeless/SmartSWOT.git
