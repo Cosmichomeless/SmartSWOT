@@ -1,7 +1,7 @@
 # 🧠 Análisis DAFO Inteligente
 
 Este proyecto es una herramienta interactiva que permite realizar un Análisis DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades) de manera inteligente y visual. Está desarrollado utilizando HTML, CSS y JavaScript para ofrecer una interfaz simple, dinámica y fácil de usar.
-<p align="Center"> <a href="https://github.com/Cosmichomeless/SmartSWOT"><img src="https://github.com/Cosmichomeless/SmartSWOT/blob/main/DAFO.png" style="height: 60%; width:60%;"/></a>
+<p align="Center"> <a href="https://cosmichomeless.github.io/SmartSWOT/"><img src="https://github.com/Cosmichomeless/SmartSWOT/blob/main/DAFO.png" style="height: 60%; width:60%;"/></a>
 
 https://cosmichomeless.github.io/SmartSWOT/
 
