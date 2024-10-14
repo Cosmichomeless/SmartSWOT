@@ -18,7 +18,6 @@ https://cosmichomeless.github.io/SmartSWOT/
 - **CSS3**: Estilización y disposición visual.
 - **JavaScript**: Lógica para la interacción dinámica del usuario.
 
-- 
  ## 🎯 Futuras Mejoras
 
 - Implementar una funcionalidad para exportar el análisis a PDF.
