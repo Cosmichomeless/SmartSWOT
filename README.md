@@ -29,9 +29,6 @@ https://cosmichomeless.github.io/SmartSWOT/
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork de este repositorio y enviar un pull request. También puedes abrir un issue para discutir cualquier cambio.
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 🌟 Cómo Usar
 
